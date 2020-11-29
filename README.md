@@ -1,2 +1,2 @@
 # Snake-and-ladder-game
-snake and ladder by Dheeraj kumar rai, manohar kumar thakur, and nehpal singh
+snake and ladder game by Dheeraj kumar Rai 
